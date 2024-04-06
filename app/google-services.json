@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016190224002",
+    "project_id": "basic-notification-d9f1a",
+    "storage_bucket": "basic-notification-d9f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016190224002:android:5933e330fb26336e99969b",
+        "android_client_info": {
+          "package_name": "com.example.theroos.firebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKL55YoFcdo-mRljd_DpuYTz7ea4jFRyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
